@@ -5,9 +5,10 @@
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=En+recherche+d’un+stage+%7C+Montpellier+-12+semaines&fontColor=ffffff&fontSize=25&fontAlign=50&height=90&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1" alt="Recherche de stage">
-</p>  
+</p>
+
 Bienvenue sur mon GitHub !  
-Je suis un étudiant en 2e année de BUT Informatique à Montpellier, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.
+Je suis un étudiant en 2e année de BUT Informatique à Montpellier, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.  
 
 ---
 

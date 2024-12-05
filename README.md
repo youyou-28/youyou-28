@@ -2,8 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
 
-Bienvenue sur mon GitHub ! 
-**En recherche un stage en développement (10-12 semaines) à Montpellier ou ses alentours.**
+Bienvenue sur mon GitHub !  
+**En recherche un stage en développement (10-12 semaines) à Montpellier ou ses alentours.**  
 Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.
 
 ---

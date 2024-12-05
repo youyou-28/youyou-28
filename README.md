@@ -61,5 +61,5 @@ Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passio
 - **Email** : [Nedjaryounes28@gmail.com](mailto:Nedjaryounes28@gmail.com)
 - **LinkedIn** : [Younes Nedjar](https://www.linkedin.com/in/younes-nedjar-0271262ab/)
 - **Cv** : [Mon CV](https://acrobat.adobe.com/id/urn:aaid:sc:EU:91852194-7a50-4936-93a6-81cb7b96da12)
-- **Portfolio** : [En cours de construction 🚧]
+- **Portfolio** : [https://younes-nedjar.netlify.app](https://younes-nedjar.netlify.app/)
 

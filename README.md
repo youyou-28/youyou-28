@@ -31,11 +31,11 @@ Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passio
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Outils et Méthodes :
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fb8b24?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FFD700?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-darkyellow?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ff006e?style=for-the-badge&logo=Figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=Blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-ff5400?style=for-the-badge&logo=Blender&logoColor=white)
 
 ---
 

@@ -3,10 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
 
 Bienvenue sur mon GitHub !  
-# 💼 En recherche d’un stage en développement (10-12 semaines) à Montpellier ou ses alentours
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%92%BC+En+recherche+d’un+stage+%7C+Montpellier+%F0%9F%91%89+10-12+semaines&fontColor=ffffff&fontSize=30&fontAlign=50&height=100&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1&borderRadius=30" alt="Recherche de stage">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%F0%9F%92%BC+En+recherche+d’un+stage+%7C+Montpellier+%F0%9F%91%89+10-12+semaines&fontColor=ffffff&fontSize=25&fontAlign=50&height=90&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1" alt="Recherche de stage">
 </p>  
 Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.
 

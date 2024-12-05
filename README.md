@@ -8,7 +8,7 @@
 </p>
 
 Bienvenue sur mon GitHub !  
-Je suis un étudiant en 2e année de BUT Informatique à Montpellier, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.  
+Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.  
 
 ---
 

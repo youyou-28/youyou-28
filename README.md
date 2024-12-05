@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
 
-Bienvenue sur mon GitHub !  
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=En+recherche+d’un+stage+%7C+Montpellier+-12+semaines&fontColor=ffffff&fontSize=25&fontAlign=50&height=90&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1" alt="Recherche de stage">
 </p>  

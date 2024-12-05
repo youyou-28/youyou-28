@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Younes Nedjar ! 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=gradient&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
 
 Bienvenue sur mon GitHub !  
 <p align="center">

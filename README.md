@@ -2,15 +2,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Étudiant+en+BUT+Informatique;Développeur+passionné;Toujours+curieux+d'apprendre)
 
-Bienvenue sur mon GitHub ! 🎉  
+Bienvenue sur mon GitHub ! 
+**En recherche un stage en développement (10-12 semaines) à Montpellier ou ses alentours.**
 Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passionné par le développement web, la programmation orientée objet, et la création de projets innovants.
 
 ---
 
 ## 🚀 À propos de moi
-- 🔭 **Actuellement :** Création d’un jeu fonctionnel en cours de développement (2024)
+- 🔭 **Actuellement :** Création d’une plateforme d'aide à la poursuite d'études (2024)
 - 🎓 **Formation :** BUT Informatique, Université de Montpellier
-- 🌍 **Langues parlées :** Français, Anglais (intermédiaire), Espagnol (avancé)
+- 🌍 **Langues parlées :** Français, Anglais (intermédiaire), Espagnol (Bilingue)
 - ✨ **Loisirs :** Cinéma, lecture, design web, jeux vidéo et sports (football, taekwondo, volley-ball)
 
 ---
@@ -44,13 +45,13 @@ Je suis un **étudiant en 2e année de BUT Informatique à Montpellier**, passio
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 Stats GitHub
 ![Younes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youyou-28&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youyou-28&layout=compact&theme=radical)
 
 ---
 
-## 📫 Me contacter
+## 📫 Contacter moi !
 - **Email** : [Nedjaryounes28@gmail.com](mailto:Nedjaryounes28@gmail.com)
 - **LinkedIn** : [Younes Nedjar](https://www.linkedin.com/in/younes-nedjar-0271262ab/)
 - **Cv** : [Voir mon CV]https://acrobat.adobe.com/id/urn:aaid:sc:EU:91852194-7a50-4936-93a6-81cb7b96da12

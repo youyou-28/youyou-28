@@ -4,7 +4,7 @@
 
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=En+recherche+d’un+stage+%7C+Montpellier+10-12+semaines&fontColor=ffffff&fontSize=25&fontAlign=50&height=90&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1" alt="Recherche de stage">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=En+recherche+d’un+stage+sur+Montpellier+de+10-12+semaines&fontColor=ffffff&fontSize=25&fontAlign=50&height=90&animation=fadeIn&colors=F7D1D1,FFC0CB,D1E7F2,FFB6C1" alt="Recherche de stage">
 </p>
 
 Bienvenue sur mon GitHub !  
